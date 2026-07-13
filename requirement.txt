@@ -1,0 +1,9 @@
+```txt
+fastapi
+uvicorn
+sqlalchemy
+python-jose[cryptography]
+python-dotenv
+psycopg2-binary
+pydantic
+```
